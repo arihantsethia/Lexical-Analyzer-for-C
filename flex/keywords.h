@@ -59,7 +59,7 @@
 #define NOT 61
 #define AND 62
 #define OR 63
-#define REQUAL 64
+#define REQUALS 64
 #define NOTEQUAL 65
 #define INCR  66
 #define DECR 67
@@ -86,7 +86,7 @@
 #define OCTA 96
 #define HEX 97
 #define REAL 98
-#define ID  99
+#define IDENTIFIER  99
 #define STRING 100
 #define CHARACTER 101
 
